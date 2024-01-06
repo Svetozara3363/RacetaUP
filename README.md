@@ -7,7 +7,7 @@ Table view
 Swiftlint
 PageViewController
 Launchscreen
-https://user-images.githubusercontent.com/98030015/185975185-9d7d649c-772b-47ad-82d5-9641be2f2272.jpg
+![image alt](https://user-images.githubusercontent.com/98030015/185975185-9d7d649c-772b-47ad-82d5-9641be2f2272.jpg)
 Main screen
 https://user-images.githubusercontent.com/98030015/185975256-ad5c1600-3041-41d1-956a-fbc9943c3b2e.jpg
 Setting
